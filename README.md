@@ -12,4 +12,3 @@ Works also on smartphones.
 [![screenshot](screenshot.png)][1]
 
 [1]: https://hckr.github.io/endless-horse-run
-
